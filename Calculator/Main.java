@@ -6,8 +6,11 @@ import java.awt.Color;
 
 public class Main {
     public static void main(String[] args) {
-        //-------- Named window ---------//
-        JFrame win = new JFrame("Player");
+        //---------- Named window -----------//
+        JFrame win = new JFrame("Calculator");
+
+        ImageIcon Icon = new ImageIcon(Main.class.getResource("Logo/Icon.png"));
+        win.setIconImage(Icon.getImage());
 
         //---------------------- Background -----------------------//
         win.getContentPane().setBackground(Color.decode("#21212B"));
