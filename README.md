@@ -1,2 +1,5 @@
 # Calculator
-Simple, regular desktop calculator program for Windows, Linux, and Mac
+Calculator for Windows, Linux, and Mac.
+
+# License
+This is open source and available under the License.
