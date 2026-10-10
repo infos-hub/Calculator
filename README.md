@@ -1,2 +1,2 @@
 # Calculator
-Simple, regular desktop calculator for Windows, Linux, and Mac
+Simple, regular desktop calculator program for Windows, Linux, and Mac
