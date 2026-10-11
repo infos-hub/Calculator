@@ -1,5 +1,4 @@
 # Calculator
-Java Calculator supports Windows, Linux, and Mac.
 
 # Supports
 - Windows
