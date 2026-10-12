@@ -1,1 +1,1 @@
-Made with community open source IDE VsCodium & KylindleTeam extensions.
+This was made with the community open-source IDE VsCodium & KylindleTeam extensions.
