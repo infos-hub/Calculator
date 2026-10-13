@@ -6,3 +6,6 @@ public class Main {
     public static void main(String[] args) {
         //---------- Named window -----------//
         JFrame win = new JFrame("Calculator");
+
+        //--------------- Close X Button -----------------//
+        win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
